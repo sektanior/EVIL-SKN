@@ -8,6 +8,6 @@ WEP/WPA/WPA2 Hacking script
 
 # how to make
 
- chmod +x EVIL-SKN
+ chmod +x airmon EVIL-SKN
  
  ./EVIL-SKN or bash EVIL-SKN
